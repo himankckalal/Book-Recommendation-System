@@ -1,0 +1,23 @@
+goodreads books/author data
+https://www.kaggle.com/brosen255/goodreads-books
+
+author_average_rating
+author_gender
+author_genres
+author_id
+author_name
+author_page_url
+author_rating_count
+author_review_count
+birthplace
+book_average_rating
+book_fullurl
+book_id
+book_title
+genre_1
+genre_2
+num_ratings
+num_reviews
+pages
+publish_date
+score
