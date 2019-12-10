@@ -11,10 +11,8 @@
 * [A collaborative filtering based library book recommendation system](https://ieeexplore.ieee.org/document/8391175)
 
 
-Hybrid attribute and personality based recommender system for book recommendation
-https://ieeexplore.ieee.org/document/8285874
-Embedding Model Design for Producing Book Recommendation
-https://ieeexplore.ieee.org/document/8843769
+* [Hybrid attribute and personality based recommender system for book recommendation](https://ieeexplore.ieee.org/document/8285874)
+* [Embedding Model Design for Producing Book Recommendation](https://ieeexplore.ieee.org/document/8843769)
 
 
 
@@ -30,25 +28,20 @@ https://ieeexplore.ieee.org/document/8843769
 (https://ieeexplore.ieee.org/document/8821643)
 
 
-LONG TAIL
-Recommending Long-Tail Items Using Extended Tripartite Graphs
-https://ieeexplore.ieee.org/document/8588783
-Enhancing Long Tail Recommendation Based on User's Experience Evolution
-https://ieeexplore.ieee.org/document/8465216
+## LONG TAIL
+* [Recommending Long-Tail Items Using Extended Tripartite Graphs](https://ieeexplore.ieee.org/document/8588783)
+* [Enhancing Long Tail Recommendation Based on User's Experience Evolution](https://ieeexplore.ieee.org/document/8465216)
 
-LONG TAIL AND COLD START
-On both Cold-Start and Long-Tail Recommendation with Social Data
-https://ieeexplore.ieee.org/document/8745499
+## LONG TAIL AND COLD START
+* [On both Cold-Start and Long-Tail Recommendation with Social Data)(https://ieeexplore.ieee.org/document/8745499)
 
-
-Machine Learning for Recommender systems — Part 1 (algorithms, evaluation and cold start)
-https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed
-Machine Learning for Recommender systems — Part 2 (Deep Recommendation, Sequence Prediction, AutoML and Reinforcement Learning in Recommendation)
-https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-2-deep-recommendation-sequence-prediction-automl-f134bc79d66b
+## BASIC IDEA AND ISSUES
+* [Machine Learning for Recommender systems — Part 1 (algorithms, evaluation and cold start)](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)
+* [Machine Learning for Recommender systems — Part 2 (Deep Recommendation, Sequence Prediction, AutoML and Reinforcement Learning in Recommendation)](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-2-deep-recommendation-sequence-prediction-automl-f134bc79d66b)
 
 
 
-1MachineLearning-BasedBookRecommendationSystemforStudents
+MachineLearning-BasedBookRecommendationSystemforStudents
 https://ankit-gupta.org/MLBookRec_ResearchPaper.pdf
 
 
