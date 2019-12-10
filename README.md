@@ -33,7 +33,7 @@
 * [Enhancing Long Tail Recommendation Based on User's Experience Evolution](https://ieeexplore.ieee.org/document/8465216)
 
 ## LONG TAIL AND COLD START
-* [On both Cold-Start and Long-Tail Recommendation with Social Data)(https://ieeexplore.ieee.org/document/8745499)
+* [On both Cold-Start and Long-Tail Recommendation with Social Data)](https://ieeexplore.ieee.org/document/8745499)
 
 ## BASIC IDEA AND ISSUES
 * [Machine Learning for Recommender systems — Part 1 (algorithms, evaluation and cold start)](https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed)
@@ -41,15 +41,13 @@
 
 
 
-MachineLearning-BasedBookRecommendationSystemforStudents
-https://ankit-gupta.org/MLBookRec_ResearchPaper.pdf
+* [MachineLearning-BasedBookRecommendationSystemforStudents](https://ankit-gupta.org/MLBookRec_ResearchPaper.pdf)
 
 
 
-EXTRA
+## EXTRA
 
-INRODUCTION
-https://tryolabs.com/blog/introduction-to-recommender-systems/
+* [INRODUCTION](https://tryolabs.com/blog/introduction-to-recommender-systems/)
 
 
 https://www.sciencedirect.com/science/article/pii/S0950705119301777
