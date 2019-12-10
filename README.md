@@ -51,10 +51,8 @@
 
 
 https://www.sciencedirect.com/science/article/pii/S0950705119301777
-Hybrid attribute and personality based recommender system for book recommendation
-https://ieeexplore.ieee.org/document/8285874
-A Book Recommendation Algorithm Based on Improved Similarity Calculation
-https://ieeexplore.ieee.org/document/8537633
+[Hybrid attribute and personality based recommender system for book recommendation](https://ieeexplore.ieee.org/document/8285874)
+[A Book Recommendation Algorithm Based on Improved Similarity Calculation](https://ieeexplore.ieee.org/document/8537633)
 
 
 
