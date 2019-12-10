@@ -60,10 +60,8 @@
 * [Content-Boosted Collaborative Filtering for Improved Recommendations](http://www.cs.utexas.edu/users/ml/papers/cbcf-aaai-02.pdf)
 
 ## DEEP LEARNING
-Deep Learning based Recommender System: A Survey and New Perspectives
-https://arxiv.org/pdf/1707.07435.pdf
+* [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
 
 
-SESSION BASED
-SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS
-https://arxiv.org/pdf/1511.06939.pdf
+## SESSION BASED
+* [SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS](https://arxiv.org/pdf/1511.06939.pdf)
