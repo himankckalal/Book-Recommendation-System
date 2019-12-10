@@ -17,8 +17,8 @@ Embedding Model Design for Producing Book Recommendation
 https://ieeexplore.ieee.org/document/8843769
 
 
-GENRE
-BOOK GENRE PREDICTOR
+#GENRE
+##BOOK GENRE PREDICTOR
 https://medium.com/bbm406f18/week-i-book-genre-predictor-c283cfc74e24
 Deep Learning Approaches towards Book Covers Classification
 https://pdfs.semanticscholar.org/dc97/f5e9176ba278085cd2c56db56b8851fa864c.pdf
