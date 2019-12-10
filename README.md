@@ -61,7 +61,7 @@
 
 ## DEEP LEARNING
 * [Deep Learning based Recommender System: A Survey and New Perspectives](https://arxiv.org/pdf/1707.07435.pdf)
-
+* [A Survey of Recommender SystemsBased on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8529185)
 
 ## SESSION BASED
 * [SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS](https://arxiv.org/pdf/1511.06939.pdf)
