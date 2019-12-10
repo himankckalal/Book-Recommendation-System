@@ -2,20 +2,19 @@
 
 
 * [An improved collaborative movie recommendation system using computational intelligence](https://www.sciencedirect.com/science/article/pii/S1045926X14000901).
-* [Latent Factor based method in collaborative filtering]
-(https://medium.com/@rabinpoudyal1995/latent-factor-based-method-in-collaborative-filtering-77756a02f675)
-[Challenges in building recommendation systems]
+* [Latent Factor based method in collaborative filtering](https://medium.com/@rabinpoudyal1995/latent-factor-based-method-in-collaborative-filtering-77756a02f675)
+* [Challenges in building recommendation systems]
 (https://medium.com/@rabinpoudyal1995/challenges-in-building-recommendation-systems-719a4d3cf5b2)
-[Building a Content-Based Recommender System for Books: Using Natural Language Processing to Understand Literary Preference]
+* [Building a Content-Based Recommender System for Books: Using Natural Language Processing to Understand Literary Preference]
 (https://jamesrledoux.com/projects/gutenberg-recommender-system/)
-[A Hybrid Model for Book Recommendation]
+* [A Hybrid Model for Book Recommendation]
 (https://ieeexplore.ieee.org/document/8473274)
-The Design and Implementation of Books Recommendation System
-https://ieeexplore.ieee.org/document/8663914
-Research on Personalized Book Recommendation Model for New Readers
-https://ieeexplore.ieee.org/document/8614724
-A collaborative filtering based library book recommendation system
-https://ieeexplore.ieee.org/document/8391175
+* [The Design and Implementation of Books Recommendation System]
+ (https://ieeexplore.ieee.org/document/8663914)
+* [Research on Personalized Book Recommendation Model for New Readers]
+(https://ieeexplore.ieee.org/document/8614724)
+* [A collaborative filtering based library book recommendation system]
+https://ieeexplore.ieee.org/document/8391175)
 
 
 Hybrid attribute and personality based recommender system for book recommendation
