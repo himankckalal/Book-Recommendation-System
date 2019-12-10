@@ -19,12 +19,9 @@ https://ieeexplore.ieee.org/document/8843769
 
 ## GENRE
 
-[BOOK GENRE PREDICTOR]
-(https://medium.com/bbm406f18/week-i-book-genre-predictor-c283cfc74e24)
-[Deep Learning Approaches towards Book Covers Classification]
-(https://pdfs.semanticscholar.org/dc97/f5e9176ba278085cd2c56db56b8851fa864c.pdf)
-[Genre Prediction to Inform the Recommendation Process
-(http://ceur-ws.org/Vol-1688/paper-05.pdf)
+[BOOK GENRE PREDICTOR](https://medium.com/bbm406f18/week-i-book-genre-predictor-c283cfc74e24)
+[Deep Learning Approaches towards Book Covers Classification](https://pdfs.semanticscholar.org/dc97/f5e9176ba278085cd2c56db56b8851fa864c.pdf)
+[Genre Prediction to Inform the Recommendation Process](http://ceur-ws.org/Vol-1688/paper-05.pdf)
 [Automated Genre Classification of Books Using Machine Learning and Natural Language Processing
 (https://ieeexplore.ieee.org/document/8776935)
 [Book Genre Classification Based on Titles with Comparative Machine Learning Algorithms
