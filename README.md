@@ -49,19 +49,17 @@
 * [INRODUCTION](https://tryolabs.com/blog/introduction-to-recommender-systems/)
 
 
-https://www.sciencedirect.com/science/article/pii/S0950705119301777
-[Hybrid attribute and personality based recommender system for book recommendation](https://ieeexplore.ieee.org/document/8285874)
-[A Book Recommendation Algorithm Based on Improved Similarity Calculation](https://ieeexplore.ieee.org/document/8537633)
+* https://www.sciencedirect.com/science/article/pii/S0950705119301777
+* [Hybrid attribute and personality based recommender system for book recommendation](https://ieeexplore.ieee.org/document/8285874)
+* [A Book Recommendation Algorithm Based on Improved Similarity Calculation](https://ieeexplore.ieee.org/document/8537633)
 
 
 
-Improving Collaborative Metric Learning with Efficient Negative Sampling
-https://arxiv.org/pdf/1909.10912.pdf
+* [Improving Collaborative Metric Learning with Efficient Negative Sampling](https://arxiv.org/pdf/1909.10912.pdf)
 
-Content-Boosted Collaborative Filtering for Improved Recommendations
-http://www.cs.utexas.edu/users/ml/papers/cbcf-aaai-02.pdf
+* [Content-Boosted Collaborative Filtering for Improved Recommendations](http://www.cs.utexas.edu/users/ml/papers/cbcf-aaai-02.pdf)
 
-DEEP LEARNING
+## DEEP LEARNING
 Deep Learning based Recommender System: A Survey and New Perspectives
 https://arxiv.org/pdf/1707.07435.pdf
 
