@@ -1,9 +1,7 @@
 # Book-Recommendation-System
 Recommendation System
 
-
-An improved collaborative movie recommendation system using computational intelligence
-  https://www.sciencedirect.com/science/article/pii/S1045926X14000901
+[An improved collaborative movie recommendation system using computational intelligence](https://www.sciencedirect.com/science/article/pii/S1045926X14000901)
 Latent Factor based method in collaborative filtering
 https://medium.com/@rabinpoudyal1995/latent-factor-based-method-in-collaborative-filtering-77756a02f675
 Challenges in building recommendation systems
