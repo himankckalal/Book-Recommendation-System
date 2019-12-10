@@ -17,6 +17,9 @@ Embedding Model Design for Producing Book Recommendation
 https://ieeexplore.ieee.org/document/8843769
 
 
+
+* [ A Hybrid Recommendation Method Based on Feature for Offline Book Personalization](https://arxiv.org/ftp/arxiv/papers/1804/1804.11335.pdf)
+
 ## GENRE
 
 * [BOOK GENRE PREDICTOR](https://medium.com/bbm406f18/week-i-book-genre-predictor-c283cfc74e24)
