@@ -41,7 +41,8 @@
 
 
 * [MachineLearning-BasedBookRecommendationSystemforStudents](https://ankit-gupta.org/MLBookRec_ResearchPaper.pdf)
-
+## Basic Thoery
+* [some Terms]https://www.kdnuggets.com/2018/02/recommender-engine.html
 
 
 ## EXTRA
