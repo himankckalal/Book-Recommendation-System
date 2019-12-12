@@ -14,7 +14,8 @@
 * [Hybrid attribute and personality based recommender system for book recommendation](https://ieeexplore.ieee.org/document/8285874)
 * [Embedding Model Design for Producing Book Recommendation](https://ieeexplore.ieee.org/document/8843769)
 
-
+## building a book recome
+https://datascienceplus.com/building-a-book-recommender-system-the-basics-knn-and-matrix-factorization/
 
 * [ A Hybrid Recommendation Method Based on Feature for Offline Book Personalization](https://arxiv.org/ftp/arxiv/papers/1804/1804.11335.pdf)
 
