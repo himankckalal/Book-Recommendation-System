@@ -1,0 +1,20 @@
+INSIGHTS
+
+
+Cold Start  == 1)  medium content boosted
+			in the satrt colab won't help
+			
+		2)combination of cosine euclidinan jaccard   
+			calculating coeefient of each book for target user acording to top n users who has highest corealtion with target users
+ 
+data sparsity
+
+gray sheep 
+
+
+synonymy =   medium latent collabourative factor
+
+Shilling Effect 
+
+
+long tail   	 
