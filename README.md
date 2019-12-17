@@ -45,6 +45,8 @@ https://datascienceplus.com/building-a-book-recommender-system-the-basics-knn-an
 ## Basic Thoery
 * [some Terms]https://www.kdnuggets.com/2018/02/recommender-engine.html
 
+## content BASED
+* [Introduction to TWO approaches of Content-based Recommendation System](https://towardsdatascience.com/introduction-to-two-approaches-of-content-based-recommendation-system-fc797460c18c)
 
 ## EXTRA
 
